@@ -7,17 +7,17 @@ Ejercicios de programación Avanzada.
 ![images](https://www.tutorialrepublic.com/lib/images/javascript-illustration.png)
 <br>
 <br>
-En este taller utilizamos diferentes tipos de Funciones, tales como Funciones de flecha y Funciones tradicionales, Array y objetos.
+ En este taller utilizamos diferentes tipos de Funciones, tales como Funciones de flecha y Funciones tradicionales, Array y objetos.
 <br>
-Metodos como:
+Métodos como:
 <br>
--ForEach🧨
+`-ForEach🧨`
 <br>
--Find🖥
+`-Find🖥`
 <br>
--map ⚙
+`-map ⚙`
 <br>
--Filter🖲
+`-Filter🖲`
 <br>
--some🧮
+`-some🧮`
 
